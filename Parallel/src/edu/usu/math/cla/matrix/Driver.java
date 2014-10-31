@@ -1,4 +1,7 @@
+package edu.usu.math.cla.matrix;
 import edu.usu.math.cla.Function;
+import edu.usu.math.cla.minimizer.ParallelFunctionMinimizer;
+import edu.usu.math.cla.minimizer.SerialFunctionMinimizer;
 
 
 public class Driver {

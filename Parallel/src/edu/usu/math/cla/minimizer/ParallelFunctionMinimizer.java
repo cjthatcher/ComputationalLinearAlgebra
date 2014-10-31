@@ -1,3 +1,4 @@
+package edu.usu.math.cla.minimizer;
 import java.util.Comparator;
 import java.util.List;
 
